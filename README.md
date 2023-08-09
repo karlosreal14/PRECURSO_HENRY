@@ -1,2 +1,1 @@
-# PRECURSO_HENRY
-precurso modulo 2 original
+este proyecto es de como clonar un archivo de internet a mi pc
